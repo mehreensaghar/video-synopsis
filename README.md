@@ -19,7 +19,9 @@ Tested on a real **52-minute** waiting-area recording (2560×1440):
 
 ## 📺 Demo
 
-VIDEO_PLACEHOLDER
+
+https://github.com/user-attachments/assets/474da25c-5b6a-4a55-a650-eef3f187a20b
+
 
 ## ⚙️ How it works
 
